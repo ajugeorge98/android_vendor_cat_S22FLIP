@@ -1,0 +1,13 @@
+# Ignore temporary files
+*.tmp
+*.swp
+*.bak
+
+# Ignore build artifacts
+*.img
+*.zip
+*.md5
+
+# Ignore proprietary binaries (if needed)
+*.so
+*.bin
